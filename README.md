@@ -1,11 +1,9 @@
 Django CRUD Operations (Advanced) in Django 3.1
 Used Radio Button, Dropdown & Checkbox!
 
-Created by Sanjay Sikdar
-Email Me : znasofficial@gmail.com
-Website : http://www.znas.in
-Facebook : https://www.fb.me/sannjayy
-YouTube Video : https://youtu.be/o53BdCHBqNo
+Created by VinayKumarReddy Karupakula
+Email Me : vinaireddyz@outlook.com
+
 
 
 How to Run This App?
